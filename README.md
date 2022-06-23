@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/ajay-singh-rajawat/">
     <img align="left" alt="Ajay's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
-  <a href="	https://medium.com/@ASR389">
+  <a href="	https://www.medium.com/@ASR389">
     <img align="left" alt="Ajay's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
   </a>
 
