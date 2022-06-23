@@ -1,4 +1,4 @@
-<h1> <img src="https://github.com/nixin72/nixin72/blob/master/wave.gif" height="60px" width="1px">नमस्ते (Namaste)🙏🏻, I am <a href="https://github.com/ASR389">Ajay</a> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" height="60px" width="30px"></h1>
+<h1> <img src="https://github.com/nixin72/nixin72/blob/master/wave.gif" height="60px" width="1px">Hello नमस्ते (Namaste)🙏🏻, I am <a href="https://github.com/ASR389">Ajay</a> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" height="60px" width="30px"></h1>
 
 
   </a>
@@ -16,7 +16,7 @@
 <img align="right" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/1272/1*ZSVmWGcc1weENb0ShawWxw.gif" />
 
 
-Hi, I'm Ajay Singh Rajawat, a software Developer 🎯 from India :india:🇮🇳, currently, I'm a master's student of Netaji Subhas University of Technology Delhi. Keen enthusiast to learn new things and love ❤️ building and exploring things.
+Hi, I'm Ajay Singh Rajawat, a software Developer 🎯 from India 🇮🇳, Currently, I'm a Master's Student of Netaji Subhas University of Technology Delhi. Keen enthusiast to learn new things and love ❤️ building and exploring things.
 Beside's this, I am highly passinate about Blockchain Technology and  loves to talk about its use cases.
 
 ### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
@@ -28,7 +28,7 @@ Beside's this, I am highly passinate about Blockchain Technology and  loves to t
 📚 I am currently pursuing Master's of Technology specialized in Computer Science and Engineering from Netaji Subhas Institute of Technology,Delhi.
 
 
-💻 **Things I love**
+💻 ### Things I love
 
 ✍️ Enjoy Learning Reading & Writing about Technical and Financial Blogs <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
@@ -37,7 +37,7 @@ Beside's this, I am highly passinate about Blockchain Technology and  loves to t
 🌱 I like to explore new technologies and develop software solutions and quick hacks.
 
 
-🛠**Tech Stack**
+### 🛠 Tech Stack
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -62,8 +62,8 @@ Beside's this, I am highly passinate about Blockchain Technology and  loves to t
 
 **Talking about Personal Stuffs:**
 
-- 🔭 I’m currently working on **DS & Algo Practic Question on Leetcode and GfG**
-- 💬 Ask me about **C++,DS,Algorithm,Blockchain,Stocks,Trading**
+- 🔭 I’m currently working on **DS & Algo Practic Question on Leetcode and GfG and trying to implement Blockchain on Real Life use case**
+- 💬 Ask me about **DS,Algorithm,Blockchain,Stocks,Trading**
 - 📬 You can shoot me an email at: **ajay.rajawat.nsit@gmail.com** I'll try to respond as soon as I can
 - 📄 Please have a look at my [Résumé](https://www.ajaysinghrajawat.in/resume.html) for more details about me. I'm open to feedback and suggestions!
 
