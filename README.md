@@ -16,7 +16,7 @@
 <img align="right" height="250" width="400" alt="GIF" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47j1xzkhiup27o7ct69f7cc1l05u197d6ujvbhqjci&rid=giphy.gif&ct=g" />
 
 
-Hi, I'm Ajay Singh Rajawat, a Software Developer 🎯 from India 🇮🇳 Currently, I'm a Master's Student of Netaji Subhas University of Technology Delhi. Keen enthusiast to learn new things and love ❤️ building and exploring things.
+Hi, I'm Ajay Singh Rajawat, a Software Developer 🎯 from India :india: Currently, I'm a Master's Student of Netaji Subhas University of Technology Delhi. Keen enthusiast to learn new things and love ❤️ building and exploring things.
 Beside's this, I am highly passinate about Blockchain Technology and  loves to talk about its use cases.
 
 ### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
