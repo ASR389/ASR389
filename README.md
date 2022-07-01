@@ -1,11 +1,11 @@
-<h1> <img src="https://github.com/nixin72/nixin72/blob/master/wave.gif" height="60px" width="1px">Hello नमस्ते (Namaste)🙏🏻, I am <a href="https://github.com/ASR389">Ajay</a> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" height="60px" width="30px"></h1>
+<h1> <img src="https://github.com/nixin72/nixin72/blob/master/wave.gif" height="60px" width="1px">Hello नमस्ते (Namaste)🙏🏻, I am <a href="https://github.com/AjayRajawat01">Ajay</a> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" height="60px" width="30px"></h1>
 
 
   </a>
-  <a href="https://www.linkedin.com/in/ajay-singh-rajawat/">
+  <a href="https://linkedin.com/in/AjayRajawat01/">
     <img align="left" alt="Ajay's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
-  <a href="https://www.medium.com/@ASR389">
+  <a href="https://medium.com/@AjayRajawat01">
     <img align="left" alt="Ajay's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
   </a>
 
@@ -25,7 +25,7 @@ Beside's this, I am highly passinate about Blockchain Technology and  loves to t
 
 🎓 Graduated with Bachelor's of Technology specialized in Computer Science and Engineering.
 
-📚 I am currently pursuing Master's of Technology specialized in Computer Science and Engineering from Netaji Subhas Institute of Technology,Delhi.
+📚 I am currently pursuing Master's in Computer Science and Engineering from Netaji Subhas Institute of Technology,Delhi.
 
 
 ### 💻 Things I love
@@ -51,10 +51,9 @@ Beside's this, I am highly passinate about Blockchain Technology and  loves to t
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
 
-
-![Remix](https://img.shields.io/static/v1?label=Remix&message=IDE&color=lightgrey)
-![Ganache](https://img.shields.io/static/v1?label=Ganache&message=G&color=orange)
-![MetaMask](https://img.shields.io/static/v1?label=&message=Metamask&color=orange)
+![Ganache](https://img.shields.io/badge/Ganache-orange?style=for-the-badge&logo=Ganache&logoColor=orange)
+![Remix](https://img.shields.io/badge/Remix-IDE-%23363636.svg?style=for-the-badge&logo=remix&logoColor=white)
+![MetaMask](https://img.shields.io/badge/Metamask-red?style=for-the-badge&logo=orange&logoColor=orange)
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
 ![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white)
 
@@ -67,4 +66,11 @@ Beside's this, I am highly passinate about Blockchain Technology and  loves to t
 - 📬 You can shoot me an email at: **ajay.rajawat.nsit@gmail.com** I'll try to respond as soon as I can
 - 📄 Please have a look at my [Résumé](https://www.ajaysinghrajawat.in/resume.html) for more details about me. I'm open to feedback and suggestions!
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ASR389" alt="ASR389" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AjayRajawat01" alt="AjayRajawat01" /> </p>
+<p align='center'>
+  💻 My workspace<br/><br/>
+  <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/AMD-RYZEN 7%205800H-red?style=for-the-badge&logo=amd" />
+  <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/nvidia-Rtx%203050-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
+</p>
