@@ -66,7 +66,6 @@ Beside's this, I am highly passinate about Blockchain Technology and  loves to t
 - 📬 You can shoot me an email at: **ajay.rajawat.nsit@gmail.com** I'll try to respond as soon as I can
 - 📄 Please have a look at my [Résumé](https://www.ajaysinghrajawat.in/resume.html) for more details about me. I'm open to feedback and suggestions!
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AjayRajawat01" alt="AjayRajawat01" /> </p>
 <p align='center'>
   💻 My workspace<br/><br/>
   <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
@@ -74,3 +73,4 @@ Beside's this, I am highly passinate about Blockchain Technology and  loves to t
   <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/nvidia-Rtx%203050-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
 </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AjayRajawat01" alt="AjayRajawat01" /> </p>
