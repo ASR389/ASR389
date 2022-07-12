@@ -64,7 +64,7 @@ Beside's this, I am highly passinate about Blockchain Technology and  loves to t
 - 🔭 I’m currently working on **DS & Algo Practic Question on Leetcode & GfG and also doing my research on land registry using Blockchain**
 - 💬 Ask me about **DS,Algorithm,Blockchain,Stocks,Trading**
 - 📬 You can shoot me an email at: **ajay.rajawat.nsit@gmail.com** I'll try to respond as soon as I can
-- 📄 Please have a look at my [Résumé](https://www.ajaysinghrajawat.in/resume.html) for more details about me. I'm open to feedback and suggestions!
+- 📄 Please have a look at my [Résumé](https://www.ajaysinghrajawat.in/Resume.pdf) for more details about me. I'm open to feedback and suggestions!
 
 <p align='center'>
   💻 My workspace<br/><br/>
