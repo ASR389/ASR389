@@ -1,4 +1,7 @@
-<h1> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hello नमस्ते (Namaste)🙏🏻,Good to have you here!! I am <a href="https://github.com/AjayRajawat01">Ajay</a> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" height="45px" ></h1>
+<!-- WAKING HAND WITH GOOD TO HAVE YOU TEXT-->
+<h2 align=center>👋 Good to have you here!!</h2>
+
+<h1> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hello, I am <a href="https://github.com/AjayRajawat01">Ajay</a> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" height="45px" ></h1>
 
 
   </a>
@@ -16,7 +19,7 @@
 <img align="right" height="250" width="400" alt="GIF" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47j1xzkhiup27o7ct69f7cc1l05u197d6ujvbhqjci&rid=giphy.gif&ct=g" />
 
 
-Hi, I'm Ajay Singh Rajawat, a Software Developer 🎯 from India :india: Currently, I'm a Master's Student of Netaji Subhas University of Technology Delhi. Keen enthusiast to learn new things and love ❤️ building and exploring things.
+Hi, I'm Ajay Singh Rajawat, a Software Developer 🎯 from India :india:. Currently, I'm a Master's Student of Netaji Subhas University of Technology Delhi. Keen enthusiast to learn new things and love ❤️ building and exploring things.
 Beside's this, I am highly passinate about Blockchain Technology and  loves to talk about its use cases.
 
 ### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
@@ -27,15 +30,19 @@ Beside's this, I am highly passinate about Blockchain Technology and  loves to t
 
 📚 I am currently pursuing Master's in Computer Science and Engineering from Netaji Subhas Institute of Technology,Delhi.
 
+😎 Simply a person who loves to solve problems and participate in competitive coding competitions.
+  
+🎮 Skilled in C++, Data Structure and Algorithms.
 
+ <hr>
 ### 💻 Things I love
 
 ✍️ Enjoy Learning Reading & Writing about Technical and Financial Blogs <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
-💡  Talks about crypto and stock market investment.
+💡  Talks about crypto and financial  market investment.
 
 🌱 I like to explore new technologies and develop software solutions and quick hacks.
-
+ <hr>
 
 ### 🛠 Tech Stack
 
@@ -57,7 +64,7 @@ Beside's this, I am highly passinate about Blockchain Technology and  loves to t
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
 ![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white)
 
-
+ <hr>
 
 **Talking about Personal Stuffs:**
 
@@ -74,3 +81,8 @@ Beside's this, I am highly passinate about Blockchain Technology and  loves to t
   <img src="https://img.shields.io/badge/nvidia-Rtx%203050-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AjayRajawat01" alt="AjayRajawat01" /> </p>
+
+
+<!--  <hr> -->
+<!--  CONTRIBUTION AND STREAK BLOCK -->
+<!--  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AjayRajawat01&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats)   -->
