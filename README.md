@@ -35,6 +35,7 @@ Beside's this, I am highly passinate about Blockchain Technology and  loves to t
 🎮 Skilled in C++, Data Structure and Algorithms.
 
  <hr>
+ 
 ### 💻 Things I love
 
 ✍️ Enjoy Learning Reading & Writing about Technical and Financial Blogs <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
@@ -42,6 +43,7 @@ Beside's this, I am highly passinate about Blockchain Technology and  loves to t
 💡  Talks about crypto and financial  market investment.
 
 🌱 I like to explore new technologies and develop software solutions and quick hacks.
+
  <hr>
 
 ### 🛠 Tech Stack
