@@ -19,20 +19,18 @@
 <img align="right" height="250" width="400" alt="GIF" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47j1xzkhiup27o7ct69f7cc1l05u197d6ujvbhqjci&rid=giphy.gif&ct=g" />
 
 
-A Software Developer 🎯 from India :india:. Currently, I'm a Master's Student of Netaji Subhas University of Technology Delhi. Keen enthusiast to learn new things and love ❤️ building and exploring things.
+A Software Developer 🎯 from India :india:. I'm a Software Development Engineer at Amazon, Done Master's in Computer Science and Engineering from Netaji Subhas University of Technology Delhi. Keen enthusiast to learn new things and love ❤️ building and exploring things.
 Beside's this, I am highly passinate about Blockchain Technology and  loves to talk about its use cases.
 
 ### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 
 👋🏽 Hi, I am glad you reached out to my tiny digital world. I am able to transform thoughts into web pages.
 
-🎓 Graduated with Bachelor's of Technology specialized in Computer Science and Engineering.
-
-📚 I am currently pursuing Master's in Computer Science and Engineering from Netaji Subhas Institute of Technology,Delhi.
+🎓 Graduated with Master's Degree in Computer Science and Engineering from Netaji Subhas Institute of Technology, Delhi.
 
 😎 Simply a person who loves to solve problems and participate in competitive coding competitions.
   
-🎮 Skilled in C++, Data Structure and Algorithms.
+🎮 Skilled in techStack with logic building of Data Structure and Algorithms.
 
  <hr>
  
@@ -47,6 +45,13 @@ Beside's this, I am highly passinate about Blockchain Technology and  loves to t
  <hr>
 
 ### 🛠 Tech Stack
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -70,18 +75,17 @@ Beside's this, I am highly passinate about Blockchain Technology and  loves to t
 
 **Talking about Personal Stuffs:**
 
-- 🔭 I’m currently working on **DS & Algo Practic Question on Leetcode & GfG and also doing my research on land registry using Blockchain**
-- 💬 Ask me about **DS,Algorithm,Blockchain,Stocks,Trading**
+- 💬 Ask me about **Software Development, Data Structure and Algorithm, Blockchain, Stocks, Trading**
 - 📬 You can shoot me an email at: **ajay.rajawat.nsit@gmail.com** I'll try to respond as soon as I can
 - 📄 Please have a look at my [Résumé](https://www.ajaysinghrajawat.in/Resume.pdf) for more details about me. I'm open to feedback and suggestions!
 
-<p align='center'>
+<!-- <p align='center'>
   💻 My workspace<br/><br/>
   <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/AMD-RYZEN 7%205800H-red?style=for-the-badge&logo=amd" />
   <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/nvidia-Rtx%203050-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
-</p>
+</p> -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AjayRajawat01" alt="AjayRajawat01" /> </p>
 
 
